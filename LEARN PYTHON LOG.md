@@ -5,6 +5,6 @@
 
 需要弄好的：
 
-- gitbook发布
+- gitbook发布(V)
 - disqus(v)
 
